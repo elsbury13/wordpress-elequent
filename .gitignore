@@ -1,0 +1,6 @@
+vendor/
+logs/*
+cache/*
+.ds_store
+.ds_store?
+app/settings.php
